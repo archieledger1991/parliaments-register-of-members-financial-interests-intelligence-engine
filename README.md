@@ -15,6 +15,8 @@ Cross-referencing official Westminster, Companies House, and housing regulator r
 ---
 
 ## 🚨 LIVE INVESTIGATIVE BRIEFINGS & DATASETS (2026)
+* **[📍 READ THE POSTCODE & CONSTITUENCY PROXIMITY NEXUS (16 Hyper-Local Donor Matches)](./READABLE_GEOGRAPHIC_POSTCODE_NEXUS.html)**
+
 
 Click below to read the live, auto-generated investigative briefings pulled directly from official UK government registries:
 
