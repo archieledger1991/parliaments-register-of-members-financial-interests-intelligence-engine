@@ -11,6 +11,8 @@ Click below to read the live, auto-generated reports pulled directly from offici
 * **[📄 READ THE 288 CONFLICTS OF INTEREST BRIEFING (Landlord MPs Accepting Gifts & Hospitality)](./READABLE_LANDLORD_MP_GIFTS_NEXUS.html)**
 * **[📄 READ THE 214 VERIFIED MP LANDLORDS BRIEFING (Full Property & Rental Register)](./READABLE_MP_LANDLORD_BRIEFING.html)**
 * **[📊 VIEW THE SOCIAL HOUSING SURPLUS & CEO PAY MATRIX (Clarion, bpha & Amplicus)](./regulator_of_social_housing_statistical_data_return_matrix.csv)**
+* **[🏢 READ THE HOUSING ASSOCIATION TRUSTEES & BOARD BRIEFING (Clarion, bpha & Amplius)](./READABLE_HOUSING_TRUSTEES_AND_BOARD_BRIEFING.html)**
+
 
 ---
 
