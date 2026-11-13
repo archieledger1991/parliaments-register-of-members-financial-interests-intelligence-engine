@@ -30,6 +30,13 @@ Click below to read the live, auto-generated investigative briefings pulled dire
 ## 🕸️ INTERLOCKING GOVERNANCE NETWORK MAP
 
 ![Interlocking Governance Network Map](./interlocking_governance_network_map.png)
+## 📍 GEOGRAPHIC & CONSTITUENCY NEXUS: WHY THESE COMPANIES FUND THESE MPs
+
+Cross-referencing donor addresses against MP constituencies reveals **hyper-local influence**—where major landed estates and corporate property owners sponsor or host the exact local MP representing the area where they hold land and development interests:
+
+* **Shaun Davies MP (Labour — Telford) ⬅️ £1,950.00 from Bradford Estates Group Limited:** Despite the name, Bradford Estates is headquartered at **Weston-under-Lizard, Shropshire (TF11 8JU)**—just **6.6 miles from Telford**. As a major local residential and commercial landlord on Telford's border, the estate paid £1,950.00 (August 2026) to sponsor the Telford MP's local charity Christmas card initiative.
+* **Alison Griffiths MP (Conservative — Bognor Regis & Littlehampton) ⬅️ £1,084.80 from The Goodwood Estate:** Headquartered right next door in **Chichester, West Sussex (PO18 0PX)**, The Goodwood Estate gifted £1,084.80 in VIP hospitality passes (September 2026) for The Goodwood Revival to the neighboring constituency MP.
+* **James Naish MP (Labour — Rushcliffe) ⬅️ £1,440.00 from Country Land and Business Association (CLA):** Rushcliffe is a major rural and agricultural Nottinghamshire constituency, making its MP a direct policy target for the CLA—the national lobbying body representing private rural landowners and landlords.
 
 ---
 
