@@ -1,6 +1,5 @@
 # INVESTIGATIVE BRIEFING: VERIFIED PARLIAMENTARY LANDLORDS & PROPERTY OWNERS
-**Source:** UK Parliament Register of Members' Financial Interests (Official Live API)
-**Total Verified Property Disclosures Extracted:** 214
+**Last Automated Update:** 2026-11-13 20:46 UTC | **Total Verified Disclosures:** 214
 
 ---
 
@@ -652,12 +651,12 @@
 ### Sir Desmond Swayne (Conservative — New Forest West)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Residential in London
-* **Date Registered:** None
+* **Date Registered:** nan
 
 ### Sir Desmond Swayne (Conservative — New Forest West)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Residential in London
-* **Date Registered:** None
+* **Date Registered:** nan
 
 ### Sir Julian Smith (Conservative — Skipton and Ripon)
 * **Category:** Land and property (within or outside the UK)
@@ -667,7 +666,7 @@
 ### Jim Shannon (Democratic Unionist Party — Strangford)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Residential in no location provided
-* **Date Registered:** None
+* **Date Registered:** nan
 
 ### Jim Shannon (Democratic Unionist Party — Strangford)
 * **Category:** Land and property (within or outside the UK)
@@ -697,7 +696,7 @@
 ### Dr Andrew Murrison (Conservative — South West Wiltshire)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Agricultural in Wiltshire
-* **Date Registered:** None
+* **Date Registered:** nan
 
 ### Wendy Morton (Conservative — Aldridge-Brownhills)
 * **Category:** Land and property (within or outside the UK)
@@ -727,12 +726,12 @@
 ### Sir Jeremy Hunt (Conservative — Godalming and Ash)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Commercial in London
-* **Date Registered:** None
+* **Date Registered:** nan
 
 ### Sir Jeremy Hunt (Conservative — Godalming and Ash)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Residential in no location provided
-* **Date Registered:** None
+* **Date Registered:** nan
 
 ### Rachel Hopkins (Labour — Luton South and South Bedfordshire)
 * **Category:** Land and property (within or outside the UK)
@@ -757,7 +756,7 @@
 ### Dame Nia Griffith (Labour — Llanelli)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Other in Camarthenshire
-* **Date Registered:** None
+* **Date Registered:** nan
 
 ### Helen Grant (Conservative — Maidstone and Malling)
 * **Category:** Land and property (within or outside the UK)
@@ -767,7 +766,7 @@
 ### Sir Roger Gale (Conservative — Herne Bay and Sandwich)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Residential in no location provided
-* **Date Registered:** None
+* **Date Registered:** nan
 
 ### Mims Davies (Conservative — East Grinstead and Uckfield)
 * **Category:** Land and property (within or outside the UK)
@@ -782,7 +781,7 @@
 ### Sir Geoffrey Cox (Conservative — Torridge and Tavistock)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Agricultural in West Devon
-* **Date Registered:** None
+* **Date Registered:** nan
 
 ### Alberto Costa (Conservative — South Leicestershire)
 * **Category:** Land and property (within or outside the UK)
@@ -797,12 +796,12 @@
 ### Sir Geoffrey Clifton-Brown (Conservative — North Cotswolds)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Property in London
-* **Date Registered:** None
+* **Date Registered:** nan
 
 ### Sir Geoffrey Clifton-Brown (Conservative — North Cotswolds)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Property in Norfolk
-* **Date Registered:** None
+* **Date Registered:** nan
 
 ### Mr Alistair Carmichael (Liberal Democrat — Orkney and Shetland)
 * **Category:** Land and property (within or outside the UK)
@@ -822,7 +821,7 @@
 ### Hilary Benn (Labour — Leeds South)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Other in Essex
-* **Date Registered:** None
+* **Date Registered:** nan
 
 ### Rebecca Harris (Conservative — Castle Point)
 * **Category:** Land and property (within or outside the UK)
@@ -892,7 +891,7 @@
 ### Catherine McKinnell (Labour — Newcastle upon Tyne North)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Property in Northumberland
-* **Date Registered:** None
+* **Date Registered:** nan
 
 ### Carla Lockhart (Independent — Upper Bann)
 * **Category:** Land and property (within or outside the UK)
@@ -932,7 +931,7 @@
 ### Emily Thornberry (Labour — Islington South and Finsbury)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Residential in Guildford, Surrey
-* **Date Registered:** None
+* **Date Registered:** nan
 
 ### Liz Saville Roberts (Plaid Cymru — Dwyfor Meirionnydd)
 * **Category:** Land and property (within or outside the UK)
@@ -972,7 +971,7 @@
 ### Bob Blackman (Conservative — Harrow East)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Residential in Welwyn Garden City
-* **Date Registered:** None
+* **Date Registered:** nan
 
 ### Rushanara Ali (Labour — Bethnal Green and Stepney)
 * **Category:** Land and property (within or outside the UK)
@@ -1047,7 +1046,7 @@
 ### Mr David Lammy (Labour — Tottenham)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Residential in Tottenham
-* **Date Registered:** None
+* **Date Registered:** nan
 
 ### John Finucane (Sinn Féin — Belfast North)
 * **Category:** Land and property (within or outside the UK)
@@ -1072,5 +1071,5 @@
 ### Helen Grant (Conservative — Maidstone and Malling)
 * **Category:** Land and property (within or outside the UK)
 * **Property & Rental Disclosure:** Commercial in Croydon
-* **Date Registered:** None
+* **Date Registered:** nan
 
