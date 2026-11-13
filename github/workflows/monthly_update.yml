@@ -1,0 +1,38 @@
+name: Monthly UK Parliament Data Refresh
+
+on:
+  schedule:
+    - cron: '0 8 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-parliament-intelligence:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Required Libraries
+        run: |
+          pip install requests pandas
+
+      - name: Run Live Parliament Data Extractor
+        run: |
+          python auto_monthly_parliament_updater.py
+
+      - name: Commit & Publish Updated Briefings
+        run: |
+          git config --local user.email "github-actions[bot]@://github.com"
+          git config --local user.name "Parliament Intelligence Bot"
+          git add verified_mp_landlords_register.csv READABLE_MP_LANDLORD_BRIEFING.md nexus_landlord_mps_receiving_gifts.csv READABLE_LANDLORD_MP_GIFTS_NEXUS.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated monthly refresh: UK Parliament Register data" && git push)
+
